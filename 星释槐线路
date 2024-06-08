@@ -1,0 +1,65 @@
+# TVbox多仓源
+{
+    "urls": [
+        {
+            "url": "",
+            "name": "🐊🐊接口更新于2024/6/8🐊🐊"
+        },
+        {
+            "url": "",
+            "name": "⭐酷安@星释槐⭐"
+        },
+        {
+            "url": "http://饭太硬.com/tv",
+            "name": "🚀饭太硬推荐"
+        },
+        {
+            "url": "http://肥猫.live",
+            "name": "🚀肥猫"
+        },
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "🚀云星日记"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "🚀酷安潇洒哥"
+        },
+       {
+            "url": "http://tv.nxog.top/m",
+            "name": "🚀欧歌"
+        },
+        {
+            "url": "http://ok321.top/tv",
+            "name": "🚀OK"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🚀巧计"
+        },
+        {
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+            "name": "🚀PG"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "🚀香雅情"
+        },
+        {
+            "url": "http://xhww.fun/小米/DEMO.json",
+            "name": "🚀小米"
+        },
+        {
+            "url": "http://bp.tvbox.cam/",
+            "name": "🚀影视资源站"
+        },
+         {
+            "url": "http://tvbox./王二小放牛娃.xyz",
+            "name": "🚀放牛"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "🚀摸鱼"
+        }
+    ]
+}
