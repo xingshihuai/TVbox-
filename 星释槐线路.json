@@ -3,7 +3,7 @@
     "urls": [
         {
             "url": "",
-            "name": "🐊🐊接口更新于2026/2/16🐊🐊"
+            "name": "🐊🐊接口更新于2026/5/10🐊🐊"
         },
         {
             "url": "",
@@ -12,10 +12,6 @@
         {
             "url": "http://www.饭太硬.com/tv",
             "name": "🚀饭太硬（推荐）"
-        },
-        {
-            "url": "http://ok213.top/tv",
-            "name": "🚀OK（推荐）"
         },
        {
             "url": "https://9877.kstore.space/AnotherD/api.json",
@@ -36,10 +32,6 @@
         {
             "url": "https://tv.xn--yhqu5zs87a.top",
             "name": "🚀菜妮丝"
-        },
-        {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "🚀巧计"
         }
     ]
 }
