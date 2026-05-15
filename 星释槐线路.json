@@ -13,17 +13,13 @@
             "url": "http://www.饭太硬.net/tv",
             "name": "🚀饭太硬（推荐）"
         },
-       {
-            "url": "https://9877.kstore.space/AnotherD/api.json",
-            "name": "🚀潇洒GY"
-       },
         {
             "url": "https://9280.kstore.vip/newwex.json",
             "name": "🚀王小二"
         },
         {
-            "url": "https://tv.nxog.top/m/",
-            "name": "🚀讴歌"
+            "url": "https://tvbox.catvod.com/xs/api.json",
+            "name": "🚀catvod"
         },
         {
             "url": "https://tv.xn--yhqu5zs87a.top",
